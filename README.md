@@ -1,4 +1,4 @@
-Remember to show people how to get the gaggle data:# 🧴 Sephora Skincare Recommender
+# 🧴 Sephora Skincare Recommender
 
 ## 📌 Overview
 A **Hybrid Recommendation System** for **Sephora skincare products**, combining:
