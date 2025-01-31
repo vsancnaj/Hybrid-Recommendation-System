@@ -73,12 +73,12 @@ streamlit run app.py
 ```
 - Open in browser: http://localhost:8501
   
- ### **📌 How It Works** 
+## **📌 How It Works** 
 1.	Users select a Sephora skincare product from the web app.
 2.	The model generates recommendations using a combination of product similarity (content-based) and user ratings (collaborative filtering).
 3.	Users receive recommendations with product details (brand, price, and rating).
 
-### **🛠️ Future Improvements** 
+## **🛠️ Future Improvements** 
 - Improve recommendations using sentiment analysis on user reviews.
 - Personalize results further based on skin type & concerns.
 - Deploy API & Web App on AWS/Heroku for public access.
