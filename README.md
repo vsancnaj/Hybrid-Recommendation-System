@@ -40,7 +40,7 @@ A **Hybrid Recommendation System** for **Sephora skincare products**, combining:
 - **Product Data:** Contains product ID, brand, ingredients, categories, price, and highlights.  
 - **Reviews Data:** User ratings, reviews, and skincare attributes (skin type, concerns).
 ### **1️⃣ Download the Dataset**
-1.	Go to the Sephora Skincare Reviews Dataset on Kaggle
+1.	Go to the [Sephora Skincare Reviews Dataset on Kaggle](https://www.kaggle.com/datasets/nadyinky/sephora-products-and-skincare-reviews/data)
 2.	Click Download and extract the ZIP file.
 
 ### **2️⃣ Move Files to data/ Directory**
