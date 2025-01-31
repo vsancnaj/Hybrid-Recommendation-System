@@ -1,0 +1,24 @@
+# Ignore dataset files
+data/
+metadata/
+reviews_*.csv
+products.csv
+
+# Ignore model artifacts
+hybrid_similarity.pkl
+*.pkl
+
+# Ignore environment & dependencies
+skincare/
+venv/
+.env
+pyvenv.cfg
+requirements.txt  # (optional, if you regenerate it dynamically)
+
+# Ignore cache & compiled files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+.ipynb_checkpoints/
+.cache/
